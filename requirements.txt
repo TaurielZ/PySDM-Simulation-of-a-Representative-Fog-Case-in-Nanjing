@@ -1,0 +1,7 @@
+# Direct dependencies used by the Nanjing fog simulation scripts.
+# PySDM installs its own runtime dependencies (including NumPy and SciPy).
+PySDM
+numpy
+pandas
+matplotlib
+pystrict
