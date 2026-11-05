@@ -1,5 +1,7 @@
 # PySDM Simulation of a Representative Fog Case in Nanjing
 
+[![DOI](https://zenodo.org/badge/1445431368.svg)](https://doi.org/10.5281/zenodo.23967680)
+
 ## Overview
 
 This repository contains the Python scripts used to simulate a representative fog event in Nanjing, eastern China, using the Python Super-Droplet Model (PySDM).
@@ -77,11 +79,11 @@ The PySDM package and its runtime dependencies are installed through the PySDM p
 
 ## Citation
 
-The associated manuscript is currently under review. Its bibliographic information will be added to this section after publication.
+If you use this code, please cite the specific software release:
 
-This code is archived on Zenodo, cite the specific software release using its DOI:
+Zhang, J. (2026). PySDM simulation code for a representative fog case in Nanjing (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23967681
 
-\[Authors]. (2026). *PySDM simulation code for a representative fog case in Nanjing* (Version 1.0.0). Zenodo. \[Insert DOI]
+The associated manuscript is currently under review. Its full bibliographic information will be added upon publication.
 
 Please also cite PySDM according to the citation guidance in the [official PySDM documentation](https://open-atmos.github.io/PySDM/).
 
